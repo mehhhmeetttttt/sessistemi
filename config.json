@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["550753232767418389"],
+        "ACTIVITY_TEXT": "Passenger Voice System",
+        "GUILD_ID": "795318312317878272",
+        "VOICE_CHANNEL": "795527613305061416",
+        "MIN_STAFF_ROLE": "795382777968721961"
+    },
+    "FILES": {
+        "WELCOME": "default_files/hg.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "NzgzNDExMzEzMzI1Mzc1NDg5.X8aWpA.8UyBab1dLsaCoypunfF93Z1Nd14"
+}
